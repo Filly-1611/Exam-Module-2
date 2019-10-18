@@ -1,0 +1,4 @@
+C:\Users\filomena.iannone\Desktop\Exam - Module - 2\ExamModule2\ExamModule2.Storage.Json\bin\Debug\netcoreapp3.0\ExamModule2.Core.dll
+C:\Users\filomena.iannone\Desktop\Exam - Module - 2\ExamModule2\ExamModule2.Storage.Json\obj\Debug\netcoreapp3.0\ExamModule2.Storage.Json.csprojAssemblyReference.cache
+C:\Users\filomena.iannone\Desktop\Exam - Module - 2\ExamModule2\ExamModule2.Storage.Json\obj\Debug\netcoreapp3.0\ExamModule2.Storage.Json.AssemblyInfoInputs.cache
+C:\Users\filomena.iannone\Desktop\Exam - Module - 2\ExamModule2\ExamModule2.Storage.Json\obj\Debug\netcoreapp3.0\ExamModule2.Storage.Json.AssemblyInfo.cs
